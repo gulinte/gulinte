@@ -1,7 +1,7 @@
 ### What's Up? 👋
 
 - I'm passionate about 👩‍💻 and web development.
-- I’m currently learning <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" alt="qQuery" width="36" height="20" > 
+- I’m currently learning <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" alt="node.js" width="36" height="20" > and <img src="https://expressjs.com/images/express-facebook-share.png" alt="express.js" width="45" height="20">
 - I'm eager to learn new skills.
 - I have enough knowledge about HTML, CSS and Bootstrap. I continue to improve my skills.
 
