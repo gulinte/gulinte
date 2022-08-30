@@ -1,7 +1,7 @@
 ### What's Up? 👋
 
 - I'm passionate about 👩‍💻 and web development.
-- I’m currently learning <img src="https://superhog-apim.developer.azure-api.net/content/926f6aaba773.png" alt="node.js" width="36" height="35" >
+- I’m currently learning <a href="https://en.wikipedia.org/wiki/API"> <img src="https://www.webtekno.com/images/editor/default/0003/32/5743dc63aab1fd54d0ca21c857dc722edbd3ca9a.jpeg" alt="api" width="40" height="20" ></a>
 - I'm eager to learn new skills.
 - I have enough knowledge about HTML, CSS and Bootstrap. I continue to improve my skills.
 
