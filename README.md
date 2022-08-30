@@ -3,7 +3,6 @@
 - I'm passionate about 👩‍💻 and web development.
 - I’m currently learning <a href="https://en.wikipedia.org/wiki/API"> <img src="https://www.webtekno.com/images/editor/default/0003/32/5743dc63aab1fd54d0ca21c857dc722edbd3ca9a.jpeg" alt="api" width="40" height="20" ></a>
 - I'm eager to learn new skills.
-- I have enough knowledge about HTML, CSS and Bootstrap. I continue to improve my skills.
 
 ### Check Out My Latest Repository <img src="https://images.ctfassets.net/3prze68gbwl1/asset-17suaysk1qa1ki0/f2e825e764d2a94ffb0009b7342c5e9d/B62xj9FCUAA3YoC.png" alt="atom-text-editor" width="23" height="23">
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gulinte&repo=Roshambo)](https://github.com/gulinte/Roshambo)
