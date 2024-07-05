@@ -1,7 +1,7 @@
 ### What's Up? 👋
 
 - I'm passionate about 👩‍💻 and web development.
-- I’m currently learning Python.
+- I’m currently learning Flask and ML.
 - I'm eager to learn new skills.
 
 ### Check Out My Latest Repository <img src="https://images.ctfassets.net/3prze68gbwl1/asset-17suaysk1qa1ki0/f2e825e764d2a94ffb0009b7342c5e9d/B62xj9FCUAA3YoC.png" alt="atom-text-editor" width="23" height="23">
